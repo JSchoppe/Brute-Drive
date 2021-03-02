@@ -1,5 +1,5 @@
 # Brute Drive
-The heist went according to plan, now it is up to you to get the team back to headquarters bye evading the police at all costs. Drive along procedurally generated routes in real world locations while using your wits or simply brute force to escape the long arm of the law.
+The heist went according to plan, now it is up to you to get the team back to headquarters by evading the police at all costs. Drive along procedurally generated routes in real world locations while using your wits or simply brute force to escape the long arm of the law.
 
 <details>
 <summary>Long Description</summary>
